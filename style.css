@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom, rgb(247, 167, 167), rgb(121, 6, 6));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:white;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
